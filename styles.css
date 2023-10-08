@@ -14,7 +14,7 @@ body {
     top: 20px;
     left: 0;
     right: 0;
-    text-align: center; /* Centralizar o menu */
+    text-align: center; 
     letter-spacing: 2px;
 }
 
@@ -38,7 +38,7 @@ body {
 
 .meio {
     border: 5px solid rgb(135, 135, 135);
-    border-radius: 50px; /* Padroniza o border-radius para todos os carros */
+    border-radius: 50px; 
     text-align: center;
     margin: 80px;
     margin-left: auto;
