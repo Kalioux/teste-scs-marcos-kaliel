@@ -34,6 +34,9 @@ body {
     margin-bottom: 275px;
     display: flex;
     font-size: 80px;
+    padding: auto;
+    margin-left: 5px;
+    margin-right: 5px;
     justify-content: space-between;
     flex-wrap: wrap;
 }
@@ -45,15 +48,16 @@ body {
     font-size: larger;
     font-size: 75px;
     line-height: 2;
-    margin: 80px;
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
     display: inline-block;
     vertical-align: top;
     padding: 10px;
     width: 20%;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .meio img {
@@ -66,7 +70,7 @@ body {
     font-size: larger;
     font-size: 50px;
     border: 4px solid rgb(0, 0, 0);
-    margin: auto;
+    margin: 0;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
@@ -75,9 +79,10 @@ body {
 
 .info {
     margin-top: 0px;
+    margin: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
     text-align: center;
-    font-size: larger;
-    font-size: 35px;
 }
 
 .baixo {
@@ -120,7 +125,6 @@ body {
 
 .cima-texto {
     text-align: justify;
-    text-align-last: right;
     color: white;
     padding: 5px;
     font-size: 65px;
