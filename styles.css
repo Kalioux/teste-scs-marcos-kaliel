@@ -1,6 +1,6 @@
 body {
     font-family: Montserrat; 
-    background-color: #c1c1c1;
+    background-color: #dadada;
     color: #000000;
     margin: 0;
     padding: 0;
@@ -33,16 +33,17 @@ body {
     margin-top: 275px;
     margin-bottom: 275px;
     display: flex;
+    font-size: 80px;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 
 .meio {
-    border: 5px solid rgb(135, 135, 135);
+    border: 4.5px solid rgb(0, 0, 0);
     border-radius: 50px;
     text-align: center;
     font-size: larger;
-    font-size: 55px;
+    font-size: 75px;
     line-height: 2;
     margin: 80px;
     margin-top: 200px;
@@ -56,20 +57,20 @@ body {
 }
 
 .meio img {
-    max-width: 130%;
+    width: 100%;
     image-rendering: auto;
     background-image: initial;
 }
 
 .meio .v {
     font-size: larger;
-    font-size: 30px;
-    border: 5px solid rgb(135, 135, 135);
+    font-size: 50px;
+    border: 4px solid rgb(0, 0, 0);
     margin: auto;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
-    border-radius: 25px;
+    border-radius: 55px;
 }
 
 .info {
@@ -84,14 +85,14 @@ body {
     margin-top: 130px;
 }
 
-.baixo .v2{
+.baixo .v2 {
     color: #c1c1c1;
     border-radius: 10px;
     border: 5px solid rgb(188, 188, 188);
-    font-size:larger;
+    font-size: larger;
     font-size: 65px;
     margin: 10px;
-    margin-right:0;
+    margin-right: 0;
     margin-top: 5px;
 }
 
